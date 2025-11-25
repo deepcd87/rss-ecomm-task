@@ -133,6 +133,11 @@ This final project allowed us to:
 
 ---
 
+## 📸 Preview
+![eCommerce Application](./assets/screenshots/rsschool-ecom-app.png)
+
+---
+
 ## 🚀 Project Setup & Running
 
 > ⚠️ **Important:**  
@@ -156,7 +161,6 @@ REACT_APP_ADMIN_CLIENT_SECRET=
 REACT_APP_SPA_CLIENT_ID=
 REACT_APP_SPA_CLIENT_SECRET=
 ```
-
 #### 3. **Install dependencies**
 ```bash
 npm install
