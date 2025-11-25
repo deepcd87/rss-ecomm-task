@@ -141,8 +141,8 @@ This final project allowed us to:
 
 #### 1. **Clone the repository**
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/deepcd87/rss-ecomm-task.git
+cd rss-ecomm-task
 ```
 #### 2. **Add CommerceTools credentials to the `.env` file**
 ```bash
