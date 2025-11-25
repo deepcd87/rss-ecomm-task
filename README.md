@@ -1,7 +1,7 @@
 # 🛍️ eCommerce Application  
-### Final Team Project — JS / Frontend Course
+### Final Team Project (RS School JS/Frontend course)
 
-This repository contains our final project for the RS School JS/Frontend course — a full-featured **eCommerce Single Page Application** built from scratch using **React + TypeScript** and powered by **CommerceTools API**.
+This repository contains our final project for the [RS School JS/Frontend course](https://rs.school/courses/javascript) — a full-featured **eCommerce Single Page Application** built from scratch using **React + TypeScript** and powered by **CommerceTools API**.
 
 The application replicates a real online shopping experience: browsing products, viewing details, managing a shopping basket, and interacting through a responsive user-friendly interface.
 
@@ -30,7 +30,8 @@ while the **team lead** submitted the final combined project for cross-check.
 
 - **React**  
 - **TypeScript**
-- **CommerceTools** API client  
+- **CommerceTools** API client
+- Webpack
 - React Router — SPA navigation  
 - Jest — testing  
 - ESLint & Prettier — code style  
