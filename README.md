@@ -1,7 +1,7 @@
 # 🛍️ eCommerce Application  
 ### Final Team Project (RS School JS/Frontend course)
 
-This repository contains our final project for the [RS School JS/Frontend course](https://rs.school/courses/javascript) — a full-featured **eCommerce Single Page Application** built from scratch using **React + TypeScript** and powered by **CommerceTools API**.
+This repository contains final project for the [RS School JS/Frontend course](https://rs.school/courses/javascript) — a full-featured **eCommerce Single Page Application** built from scratch using **React + TypeScript** and powered by **CommerceTools API**.
 
 The application replicates a real online shopping experience: browsing products, viewing details, managing a shopping basket, and interacting through a responsive user-friendly interface.
 
@@ -9,20 +9,54 @@ This project was created through **full-scale team collaboration**, with shared 
 
 ---
 
-## 👥 Team Collaboration
+## 🌐 Project Overview
 
-This project is the result of **coordinated work by a team of three developers**.  
-Throughout the development process, we:
+The eCommerce Application is a fully interactive SPA featuring:
 
-- planned architecture and features together  
-- divided responsibilities across sprints  
-- collaborated through Git, code reviews, and shared conventions  
-- unified our development environment (ESLint, Prettier, Husky)  
-- jointly integrated CommerceTools  
-- implemented shared design, routing structure, and UI logic  
+🔐 User authentication (login & registration)
 
-Each member submitted their individual contribution to the mentor,  
-while the **team lead** submitted the final combined project for cross-check.
+🏠 Main page with navigation to all major sections
+
+📋 Catalog with sorting, filtering, and product categories
+
+🔎 Detailed product pages
+
+👤 User profile with editable personal data & addresses
+
+🛒 Basket with quantity management and real-time updates
+
+🙋‍♂️🙋‍♀️ About Us page
+
+📱 Fully responsive layout (from 390px and up)
+
+⚛️ Built using React + TypeScript
+
+🔗 Powered by CommerceTools API
+
+🧭 SPA routing with dynamic URLs
+
+🧼 Clean, modular, scalable code
+
+🧪 Unit test coverage (Jest)
+
+---
+
+## 🤝 Teamwork & Mentor Review
+
+This project was developed in a team of three, following real industry practices:
+
+🧩 Distributed tasks via a shared task board
+
+🔀 Worked through pull requests with approvals
+
+💬 Conducted active code reviews
+
+🛠️ Collaborated on architecture and technical decisions
+
+📚 Followed consistent coding standards (ESLint, Prettier, Husky)
+
+Throughout the sprint, the project was continuously **reviewed by an experienced mentor**, who evaluated the code quality, teamwork, structure, and testing approach.
+This mentor feedback played a key role in improving architecture, code readability, and project workflow — mimicking a professional development environment.
 
 ---
 
@@ -37,35 +71,6 @@ while the **team lead** submitted the final combined project for cross-check.
 - ESLint & Prettier — code style  
 - Husky — pre-commit hooks
   
----
-
-## 🗂️ Key Pages
-
-### 🔐 Login  
-User authentication with validation and token handling.
-
-### 📝 Registration  
-Account creation with input validation and redirect to login.
-
-### 🏠 Main Page  
-Entry page with navigation to core sections and optional promo content.
-
-### 📋 Catalog Page  
-Product catalog with cards, filters, sorting, and categories.
-
-### 🔎 Product Details Page  
-Full product info, images, description, price, and “add to cart” options.
-
-### 👤 User Profile  
-User personal data, addresses, and edit functionality.
-
-### 🛒 Basket  
-Product management (add/remove/change quantity), subtotal, and total.
-
-### 🙋‍♂️🙋‍♀️ About Us  
-Team introduction with roles, photos, short bios, GitHub links,  
-and RS School logo.
-
 ---
 
 ## 🏁 Sprint Structure
@@ -124,7 +129,7 @@ This final project allowed us to:
 - collaborate as a real development team  
 - integrate a large-scale eCommerce platform  
 - create a responsive, user-friendly interface  
-- split work across sprints with clear responsibilities  
+- split work across sprints with clear responsibilities
 
 ---
 
